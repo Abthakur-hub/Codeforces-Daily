@@ -1,0 +1,5 @@
+*.class
+*.dSYM/
+.cph/
+.vscode/
+.DS_Store
